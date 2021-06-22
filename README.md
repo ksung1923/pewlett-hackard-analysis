@@ -9,12 +9,19 @@ Pewlett Hackard has upgraded to now use SQL and I assisted Bobby in creating an 
 
 ## Resources and Software
 -SQL
+
 -Data Sources: 
+
     - [departments.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/departments.csv)
+
     - [dept_emp.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/dept_emp.csv)
+
     - [dept_manager.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/dept_manager.csv)
+
     - [employees.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/employees.csv)
+
     - [salaries.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/salaries.csv)
+
     - [titles.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/titles.csv)
 
 
@@ -27,7 +34,9 @@ From the data sources provided by Pewlett Hackard, I created a SQL employee data
 The following are major points from my analysis: 
 
 1. There are a total of 90,398 employees eligible for the retirement package. 
-2. The top 3 titles with the most employees eligible for retirement is Senior Engineer, Senior Staff, and Engineer. Please see the spreadsheet for the complete list of retiring employees per title. [retiring_titles.csv](Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retiring_titles.csv)
+2. The top 3 titles with the most employees eligible for retirement is Senior Engineer, Senior Staff, and Engineer. Please see the spreadsheet for the complete list of retiring employees per title. 
+[retiring_titles.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/8187b496c22cb4fd31df1571116aa2c72a786442/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retiring_titles.csv)
+
 3. There are a total of 1,549 employees who are eligible to participate in a mentorship program. 
 4. The top 3 titles with the most employees eligible for a mentorship program is the same as the top 3 titles of employees eligible for retirement. The top 3 titles ares Senior Engineer, Engineer and Senior Staff.
 
