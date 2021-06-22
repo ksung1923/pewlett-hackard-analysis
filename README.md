@@ -11,17 +11,11 @@ Pewlett Hackard has upgraded to now use SQL and I assisted Bobby in creating an 
 -SQL
 
 -Data Sources: 
-
     - [departments.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/departments.csv)
-
     - [dept_emp.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/dept_emp.csv)
-
     - [dept_manager.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/dept_manager.csv)
-
     - [employees.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/employees.csv)
-
     - [salaries.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/salaries.csv)
-
     - [titles.csv](https://github.com/ksung1923/pewlett-hackard-analysis/blob/f264538afb9fb4e9e08b735ad7fe2116dec63253/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/titles.csv)
 
 
