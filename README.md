@@ -50,7 +50,7 @@ ORDER BY COUNT(*) DESC;
 
 Here are the seven departments that will be impacted by the "silver tsunami". 
 
-![Retiring_Title](Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Retiring_Title.PNG)
+![Retiring_Title](https://github.com/ksung1923/pewlett-hackard-analysis/blob/e3e7535d38ee274f810f338630e24a82b46f03c0/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Retiring_Title.PNG)
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
 When looking at the 1,549 employees who are eligible to participate in a mentorship program, we only find six departments among the employees qualified and retirement-ready to mentor the next generation of Pewlett Hackard employees. To determine all the departments with employees in a position to mentor, I used the following code. 
@@ -66,7 +66,6 @@ ORDER BY COUNT(*) DESC;
 
 The six deparments that have qualified, retirement-ready employees to mentor the next generation of employees are: 
 
-![Mentorship_Title](Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Mentorship_Title.PNG)
-
+![Mentorship_Title](https://github.com/ksung1923/pewlett-hackard-analysis/blob/e3e7535d38ee274f810f338630e24a82b46f03c0/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Mentorship_Title.PNG)
 
 The one department that does not have employees eligible for the mentorship program is "Manager". Since Pewlett Hackard is expected two Managers to retire in the upcoming "silver tsunami", a recommendation would be to ask managers younger than current employees born in 1965 to start mentoring the next generation. That will be critical for the future of the "Manager" department. 
